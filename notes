@@ -1,0 +1,7 @@
+Make sure to commit after each edit using the terminal 
+
+To Push:
+
+git add .
+git commit -m "TITLE OF UPDATE"
+git push
