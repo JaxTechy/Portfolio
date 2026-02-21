@@ -28,14 +28,14 @@ function Timeline() {
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2025-2025"
+            date="2021-2025"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Full Stack Engineer</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
+            <h3 className="vertical-timeline-element-title">Cafe hand, Barista</h3>
+            <h4 className="vertical-timeline-element-subtitle">Coffs Harbour, NSW</h4>
             <p>
-              Frontend Development, Backend Development, User Experience, Team Leading
+              Working as a waiter and barista at the Black Apple Cafe
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -44,10 +44,10 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Staff Engineer Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
+            <h3 className="vertical-timeline-element-title">N/A</h3>
+            <h4 className="vertical-timeline-element-subtitle">N/A</h4>
             <p>
-              Full-stack Development, API Development, User Experience
+              
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -56,10 +56,10 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Data Analyst Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Tokyo, Japan</h4>
+            <h3 className="vertical-timeline-element-title">N/A</h3>
+            <h4 className="vertical-timeline-element-subtitle">N/A</h4>
             <p>
-              Automation, Data Governance, Statistical Analysis
+              
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>

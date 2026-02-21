@@ -21,9 +21,13 @@
 }
   
 .zoom {
+    width: 100%;
     border-radius: 5px;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
     transition: transform .2s;
     margin: 0 auto;
+    display: block;
 }
   
 .zoom:hover {
